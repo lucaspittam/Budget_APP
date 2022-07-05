@@ -9,7 +9,7 @@
   This app converts an existing app into a pwa (progressive web app). we used IndexedDB, and service worker to have a functioning offline experience and a web manifest to allow the installation on a device.
 
   ## Links
-  [Heroku]()
+  [Heroku](https://frozen-tor-46892.herokuapp.com/)
 
   ## Table of Contents
   * [Description](#description)
